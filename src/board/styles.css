@@ -1,0 +1,8 @@
+.row-board {
+    display: flex;
+    height: 6.5rem;
+    margin: 0.25rem;
+    justify-content: space-between;
+    align-items: center;
+
+}
